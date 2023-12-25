@@ -1,6 +1,10 @@
 # CDT.Valheim.LocaleEx
 
-# English
+# Screenshots
+
+![Screenshot 2023-12-25 110406.png](Screenshots/Screenshot%202023-12-25%20110406.png)
+
+![Screenshot 2023-12-25 110503.png](Screenshots/Screenshot%202023-12-25%20110503.png)
 
 CDT.Valheim.LocaleEx is created with the purpose of making the tasks of translation and distribution of community translations easier. This method does not interfere with or modify the game processing files, thus it does not impact the game and remains unaffected during game updates.
 
